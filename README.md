@@ -18,23 +18,20 @@
       <img align="top" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaanF1&layout=pie&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=7" />
     </td>
   </tr>
+  <tr>
+    <td aling="center" colspan="2">
+      <!-- Projects -->
+      <h3 align="center">🚀 Some projects that i want to be seen are: </h3>
+      <!-- Door Alarm System -->
+      <a href="https://github.com/DaanF1/Door_Alarm_System">
+        <img align="center" width="365" src="https://github-readme-stats.vercel.app/api/pin/?username=DaanF1&repo=Door_Alarm_System&show_owner=true&theme=radical"/>
+      </a>
+      <!-- Avans PokeBattles -->
+      <a href="https://github.com/DaanF1/Avans_PokeBattles">
+        <img align="center" width="425" src="https://github-readme-stats.vercel.app/api/pin/?username=DaanF1&repo=Avans_PokeBattles&show_owner=true&theme=radical"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
-<!-- Line -->
-___
-<!-- Projects -->
-<h3 align="center">🚀 Some projects that i want to be seen are:</h3>
-<p align="center">
-  <!-- Door Alarm System -->
-  <a href="https://github.com/DaanF1/Door_Alarm_System">
-    <img align="center" width="365" src="https://github-readme-stats.vercel.app/api/pin/?username=DaanF1&repo=Door_Alarm_System&show_owner=true&theme=radical"/>
-  </a>
-  <!-- Avans PokeBattles -->
-  <a href="https://github.com/DaanF1/Avans_PokeBattles">
-    <img align="center" width="425" src="https://github-readme-stats.vercel.app/api/pin/?username=DaanF1&repo=Avans_PokeBattles&show_owner=true&theme=radical"/>
-  </a>
-</p>
-
-<!-- Line -->
-___ 
 <h3 align="center">✨ Feel free to check out my other pinned projects below 👇</h3>
