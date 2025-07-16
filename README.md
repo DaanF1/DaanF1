@@ -3,7 +3,7 @@
 <!-- Introduction -->
 <h1 align="center">👋 Hello! I'm DaanF1</h1>
 <p align="center">
-  🎓 I am a student at the Avans University of Applied Sciences, where i study Computer Engineering.<br>
+  🎓 I am currently studying Computer Engineering.<br>
   💻 In my spare time i love to relax, but sometimes also work on smaller personal projects here.
 </p>
 
