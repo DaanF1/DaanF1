@@ -6,19 +6,19 @@
   💻 In my spare time i love to relax, but sometimes also work on smaller personal projects here.
 </p>
 
-<!-- Activity -->
-<h3 align="center">⚡My activity on GitHub consists of:</h3>
-<p align="center">
-  <img width="500" src="https://github-readme-stats.vercel.app/api?username=DaanF1&show_icons=true&hide=stars,issues&show=prs_merged_percentage&theme=radical"/>
-</p>
-
-<!-- Line -->
-___
-<!-- Programming Languages -->
-<h3 align="center">📝 My main programming languages are:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaanF1&layout=pie&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=7" />
-</p>
+<!-- Activity & Programming Languages -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>⚡ My activity on GitHub consists of: </h3>
+      <img align="top" width="500" src="https://github-readme-stats.vercel.app/api?username=DaanF1&show_icons=true&hide=stars,issues&show=prs_merged_percentage&theme=radical"/>
+    </td>
+    <td align="center">
+      <h3>📝 My main programming languages are: </h3>
+      <img align="top" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaanF1&layout=pie&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=7" />
+    </td>
+  </tr>
+</table>
 
 <!-- Line -->
 ___
