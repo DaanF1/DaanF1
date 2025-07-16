@@ -20,7 +20,7 @@
   <tr>
     <td aling="center" colspan="2">
       <!-- Projects -->
-      <h4 align="center">🚀 Some projects that i want to be seen are: </h4>
+      <h3 align="center">🚀 Some projects that i want to be seen are: </h3>
       <!-- Door Alarm System -->
       <a href="https://github.com/DaanF1/Door_Alarm_System">
         <img align="center" width="340" src="https://github-readme-stats.vercel.app/api/pin/?username=DaanF1&repo=Door_Alarm_System&show_owner=true&theme=radical"/>
