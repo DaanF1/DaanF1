@@ -4,7 +4,7 @@
 <h1 align="center">Hello! I'm DaanF1</h1>
 <p align="center">
 I am currently studying Computer Engineering.<br>
-In my spare time i love to relax, but sometimes also work on smaller personal projects here.
+In my spare time i love to relax, but sometimes also work on small personal projects here.
 </p>
 
 <!-- Activity & Programming Languages -->
@@ -20,7 +20,7 @@ In my spare time i love to relax, but sometimes also work on smaller personal pr
   <tr>
     <td aling="center" colspan="2">
       <!-- Projects -->
-      <h3 align="center">Some projects that i want to be seen are:</h3>
+      <h3 align="center">Some projects I would like to display:</h3>
       <!-- Door Alarm System -->
       <a href="https://github.com/DaanF1/Door_Alarm_System">
         <img align="center" width="340" src="https://github-stats-extended.vercel.app/api/pin/?username=DaanF1&repo=Door_Alarm_System&show_owner=true&theme=radical"/>
