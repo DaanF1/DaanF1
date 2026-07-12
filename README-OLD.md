@@ -27,7 +27,7 @@ In my spare time i love to relax, but sometimes also work on smaller personal pr
       </a>
       <!-- Avans PokeBattles -->
       <a href="https://github.com/DaanF1/Avans_PokeBattles">
-        <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=DaanF1&repo=Avans_PokeBattles&show_owner=true&theme=radical"/>
+        <img align="center" width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=DaanF1&repo=Avans_PokeBattles&show_owner=true&theme=radical"/>
       </a>
     </td>
   </tr>
