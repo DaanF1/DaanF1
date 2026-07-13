@@ -23,11 +23,11 @@ In my spare time i love to relax, but sometimes also work on small personal proj
       <h3 align="center">Some projects I would like to display:</h3>
       <!-- IWSN_CarReader -->
       <a href="https://github.com/DaanF1/IWSN_CarReader">
-        <img align="center" width="340" src="https://github-stats-extended.vercel.app/api/pin/?username=DaanF1&repo=IWSN_CarReader&show_owner=true&theme=radical"/>
+        <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=DaanF1&repo=IWSN_CarReader&show_owner=true&theme=radical"/>
       </a>
       <!-- DSP_Echo -->
       <a href="https://github.com/DaanF1/DSP_Echo">
-        <img align="center" width="400" src="https://github-stats-extended.vercel.app/api/pin/?username=DaanF1&repo=DSP_Echo&show_owner=true&theme=radical"/>
+        <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=DaanF1&repo=DSP_Echo&show_owner=true&theme=radical"/>
       </a>
     </td>
   </tr>
